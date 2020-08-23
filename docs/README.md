@@ -16,30 +16,39 @@ socials:
     icon: "/icons/instagram-mono.svg"
     link: https://instagram.com/evers.sh
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+cv: https://evers.sh
+bio: IT enthusiast
+email: denis (at) evers (dot) sh
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
-
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+Working on this
 
 
 ## News
 
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
+- [2020] Work & Travel Australia
+- [2014 - 2017] Ostfriesische Volksbank eG, Leer (Ostfriesland), Germany (Informatikkaufmann (Apprenticeship))
+- [2012 - 2013] Oakridge, Muskegon, Michigan, USA (Certificate of Attendance (Exchange Year))
+- [Nov 1994] Born in Germany
 
 
 ## Education & Experiences
 
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
+- **JM & JD Chandler** Farm Hand <br/>
+April 2020 - August 2020
+- **Ostfriesische Volksbank eG** IT Administrator <br/>
+September 2017 - December 2019
+- **Ostfriesische Volksbank eG, Leer (Ostfriesland), Germany** Informatikkaufmann (Apprenticeship) <br/>
+2014 - 2017
+- **Oakridge, Muskegon, Michigan, USA** Certificate of Attendance (Exchange Year) <br/>
+2012 - 2013
+- **IGS Aurich-West, Aurich, Germany** <br/>
+2009 - 2012
+
 
 
 ## Projects
@@ -47,34 +56,18 @@ Sept 1991 - 1997
 
 [→ Full list](/projects/)
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/2.png"
+hideBorder=true>
 
-  **The Making of Harry Potter's Wand**
-
-  Harry P., Hermione G., *et al*
+  Denis Evers (Maintainer)
   
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
+  [**Vivumlab**](https://github.com/denis-ev/Vivumlab/)
   
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  Personal Fork from HomelabOS
 
+  [Docs](https://docs.vivumlab.com)
+  
 </ProjectCard>
-
-<ProjectCard hideBorder=true>
-
-  **Harry Potter and the Deathly Hallows**
-  
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
-
-  [[Link](https://www.google.com)]
-
-</ProjectCard>
-
-
-## Awards & Honors
-
-### Contests
-
-- First place in **The Hogwarts House Cup**
 
 
 <!-- Custom style for this page -->

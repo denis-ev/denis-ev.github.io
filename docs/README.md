@@ -30,10 +30,10 @@ maybe later
 
 ## News
 
-- [2020] Work & Travel Australia
-- [2014 - 2017] Ostfriesische Volksbank eG, Leer (Ostfriesland), Germany (Informatikkaufmann (Apprenticeship)
-- [2012 - 2013] Oakridge, Muskegon, Michigan, USA (Certificate of Attendance (Exchange Year)
-- [Nov 1994] Born in Germany
+- [2020] **Work & Travel Australia** 
+- [2014 - 2017] **Ostfriesische Volksbank eG, Leer (Ostfriesland), Germany** Apprenticeship: Management assistant in informatics / IT specialist (Informatikkaufmann))
+- [2012 - 2013] **Oakridge High School, Muskegon, Michigan, USA** Certificate of Attendance (Exchange Year)
+- [Nov 1994] **Born in Germany**
 
 
 ## Education & Experiences
@@ -42,7 +42,7 @@ maybe later
 April 2020 - August 2020
 - **Ostfriesische Volksbank eG** IT Administrator <br/>
 September 2017 - December 2019
-- **Ostfriesische Volksbank eG, Leer (Ostfriesland), Germany** Informatikkaufmann (Apprenticeship) <br/>
+- **Ostfriesische Volksbank eG, Leer (Ostfriesland), Germany** Apprenticeship: Management assistant in informatics / IT specialist (Informatikkaufmann) <br/>
 2014 - 2017
 - **Oakridge, Muskegon, Michigan, USA** Certificate of Attendance (Exchange Year) <br/>
 2012 - 2013

@@ -1,16 +1,19 @@
 {
-  "name": "vuepress-homepage",
+  "name": "denis-ev.github.io",
+  "homepage": "https://evers.sh",
   "version": "0.0.1",
   "description": "Generate your homepage with VuePress",
-  "author": "Fing <mtobeiyf@163.com>",
-  "repository": "https://github.com/mtobeiyf/vuepress-homepage.git",
+  "author": "Denis <denis@evers.sh>",
+  "repository": "https://github.com/denis-ev/denis-ev.github.io.git",
   "scripts": {
     "clean": "rimraf dist/*",
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "gh-pages -d dist"
   },
   "license": "MIT",
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "vuepress": "^1.0.4"
   },
   "dependencies": {

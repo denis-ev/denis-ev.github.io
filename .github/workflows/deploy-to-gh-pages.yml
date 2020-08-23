@@ -19,7 +19,7 @@ jobs:
       
       - name: Create File
         uses: finnp/create-file-action@1.0.0
-        with:
+        env:
           FILE_NAME: dist/CNAME
           FILE_DATA: evers.sh
 

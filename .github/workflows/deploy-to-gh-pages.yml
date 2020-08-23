@@ -1,0 +1,31 @@
+name: Build and Deploy
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false 
+
+      - name: Install and Build 🔧
+        run: |
+          yarn
+          yarn run build
+      
+      - name: Create File
+        uses: finnp/create-file-action@1.0.0
+        with:
+          FILE_NAME: dist/CNAME
+          FILE_DATA: evers.sh
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: dist

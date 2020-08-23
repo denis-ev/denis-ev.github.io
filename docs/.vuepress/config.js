@@ -11,8 +11,9 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
+      { text: "Dash", link: "https://vlab.evers.sh/" },
       // { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/denis-ev" }
+      { text: "GitHub", link: "https://github.com/denis-ev/" }
     ],
     // sidebar: {
     //   '/guide/': genSidebarConfig('Guide')

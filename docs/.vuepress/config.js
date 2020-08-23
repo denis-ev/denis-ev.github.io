@@ -18,7 +18,7 @@ module.exports = {
     // sidebar: {
     //   '/guide/': genSidebarConfig('Guide')
     // },
-    lastUpdated: 'Last Updated'
+    lastUpdated: 'Last Updated (GMT)'
   },
 
   markdown: {

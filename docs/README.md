@@ -2,19 +2,19 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: Denis Evers
 profile: /profile.jpg
 
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
+    link: https://github.com/denis-ev
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
+    link: https://www.linkedin.com/in/denis-evers/
   - title: instagram
     icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://instagram.com/evers.sh
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: Student at Hogwarts School

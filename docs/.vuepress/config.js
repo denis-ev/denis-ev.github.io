@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Harry Potter",
-  description: "The description of the site.",
+  title: "Denis Evers",
+  description: "My personal site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
   dest: "./dist",
@@ -11,12 +11,12 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      // { text: "Guide", link: "/guide/" },
+      { text: "GitHub", link: "https://github.com/denis-ev" }
     ],
-    sidebar: {
-      '/guide/': genSidebarConfig('Guide')
-    },
+    // sidebar: {
+    //   '/guide/': genSidebarConfig('Guide')
+    // },
     lastUpdated: 'Last Updated'
   },
 
@@ -29,18 +29,18 @@ module.exports = {
   }
 };
 
-function genSidebarConfig (title) {
-  return [
-    {
-      title,
-      collapsable: false,
-      children: [
-        '',
-        'getting-started',
-        'customize',
-        'advanced',
-      ]
-    }
-  ]
-}
+// function genSidebarConfig (title) {
+//   return [
+//     {
+//       title,
+//       collapsable: false,
+//       children: [
+//         '',
+//         'getting-started',
+//         'customize',
+//         'advanced',
+//       ]
+//     }
+//   ]
+// }
 

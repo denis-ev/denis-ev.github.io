@@ -10,26 +10,24 @@ Here are some works of mine :books:
 
 <ProjectCard image="/projects/1.png">
 
-  Harry P., Hermione G., *et al*
+  Denis Evers (Maintainer)
   
-  **The Making of Harry Potter's Wand**
+  [**HomelabOS**](https://gitlab.com/NickBusey/HomelabOS/)
   
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  Your very own offline-first privacy-centric open-source data-center! https://homelabos.com/
 
 </ProjectCard>
 
-## Publications
+<ProjectCard image="/projects/2.png">
 
-<ProjectCard>
-
-  **Harry Potter and the Deathly Hallows**
+  Denis Evers (Maintainer)
   
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
+  [**Vivumlab**](https://github.com/denis-ev/Vivumlab/)
+  
+  Personal Fork from HomelabOS
 
-  [[Link](https://www.google.com)]
-
+  [Docs](https://docs.vivumlab.com)
+  
 </ProjectCard>
 
 <style lang="stylus">

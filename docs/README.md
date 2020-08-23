@@ -25,14 +25,14 @@ email: denis (at) evers (dot) sh
 
 ## About Me
 
-Working on this
+maybe later
 
 
 ## News
 
 - [2020] Work & Travel Australia
-- [2014 - 2017] Ostfriesische Volksbank eG, Leer (Ostfriesland), Germany (Informatikkaufmann (Apprenticeship))
-- [2012 - 2013] Oakridge, Muskegon, Michigan, USA (Certificate of Attendance (Exchange Year))
+- [2014 - 2017] Ostfriesische Volksbank eG, Leer (Ostfriesland), Germany (Informatikkaufmann (Apprenticeship)
+- [2012 - 2013] Oakridge, Muskegon, Michigan, USA (Certificate of Attendance (Exchange Year)
 - [Nov 1994] Born in Germany
 
 

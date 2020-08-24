@@ -14,9 +14,9 @@ socials:
     link: https://dev.vivumlab.com/linkedin
   - title: instagram
     icon: "/icons/instagram-mono.svg"
-    link: https://instagram.com/evers.sh
+    link: https://dev.vivumlab.com/instagram
 
-cv: https://evers.sh
+#cv: https://evers.sh
 bio: IT enthusiast
 email: denis (at) evers (dot) sh
 ---

@@ -7,18 +7,18 @@ info: 'IT enthusiast'
 interests: 'Interests: Creating websites, maintaining servers.'
 socials:
 - title: github
-  link: https://github.com/denis-ev
+  link: https://dev.vivumlab.com/github
 - title: linkedin
-  link: https://www.linkedin.com/in/denis-evers/
+  link: https://dev.vivumlab.com/linkedin
 - title: instagram
-  link: https://www.instagram.com/evers.sh
+  link: https://dev.vivumlab.com/instagram
 - title: email
   link: 'mailto:denis[at]evers.sh'
 actions:
 - text: Projects
   link: /projects/
 - text: Blog
-  link: https://github.com/denis-ev
+  link: https://dev.vivumlab.com/github
 # - text: CV
 #   link: /article/
 footer: Made with ♥ by Denis. Powered by VuePress

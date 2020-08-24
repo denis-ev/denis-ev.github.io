@@ -8,10 +8,10 @@ profile: /profile.jpg
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/denis-ev
+    link: https://dev.vivumlab.com/github
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com/in/denis-evers/
+    link: https://dev.vivumlab.com/linkedin
   - title: instagram
     icon: "/icons/instagram-mono.svg"
     link: https://instagram.com/evers.sh
@@ -61,7 +61,7 @@ hideBorder=true>
 
   Denis Evers (Maintainer)
   
-  [**Vivumlab**](https://github.com/denis-ev/Vivumlab/)
+  [**Vivumlab**](https://dev.vivumlab.com/github/Vivumlab/)
   
   Personal Fork from HomelabOS
 

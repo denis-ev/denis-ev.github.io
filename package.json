@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "Generate your homepage with VuePress",
   "author": "Denis <denis@evers.sh>",
-  "repository": "https://github.com/denis-ev/denis-ev.github.io.git",
+  "repository": "https://dev.vivumlab.com/github/denis-ev.github.io.git",
   "scripts": {
     "clean": "rimraf dist/*",
     "dev": "vuepress dev docs",

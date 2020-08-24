@@ -12,7 +12,7 @@ Here are some works of mine :books:
 
   Denis Evers (Maintainer)
   
-  [**HomelabOS**](https://gitlab.com/NickBusey/HomelabOS/)
+  [**HomelabOS**](https://dev.vivumlab.com/homelabos)
   
   Your very own offline-first privacy-centric open-source data-center! https://homelabos.com/
 
@@ -22,7 +22,7 @@ Here are some works of mine :books:
 
   Denis Evers (Maintainer)
   
-  [**Vivumlab**](https://dev.vivumlab.com/github/Vivumlab/)
+  [**Vivumlab**](https://dev.vivumlab.com/vivumlab)
   
   Personal Fork from HomelabOS
 

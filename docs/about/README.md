@@ -26,7 +26,7 @@ footer: Made with ♥ by Denis. Powered by VuePress
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I have worked in the IT Department of a bank in Germany decided to do some traveling/working in Australia.
+Currently in Australia. More coming soon.
 
 </AboutCard>
 

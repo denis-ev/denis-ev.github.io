@@ -8,13 +8,13 @@ profile: /profile.jpg
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://dev.vivumlab.com/github
+    link: https://kutt.evers.sh/github
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://dev.vivumlab.com/linkedin
+    link: https://kutt.evers.sh/linkedin
   - title: instagram
     icon: "/icons/instagram-mono.svg"
-    link: https://dev.vivumlab.com/instagram
+    link: https://kutt.evers.sh/instagram
 
 #cv: https://evers.sh
 bio: IT enthusiast
@@ -25,8 +25,9 @@ email: denis (at) evers (dot) sh
 
 ## About Me
 
-maybe later
-
+Hey, <br/>
+I'm Denis from Germany and currently living in Surfers Paradise, QLD, Australia. <br/>
+For more information check out [→ About Me](/about/)
 
 ## News
 
@@ -61,7 +62,7 @@ hideBorder=true>
 
   Denis Evers (Maintainer)
   
-  [**Vivumlab**](https://dev.vivumlab.com/github/Vivumlab/)
+  [**Vivumlab**](https://github.com/VivumLab/VivumLab)
   
   Personal Fork from HomelabOS
 

@@ -13,7 +13,7 @@ module.exports = {
       { text: "Projects", link: "/projects/" },
       { text: "Dash", link: "https://vlab.evers.sh/" },
       // { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://dev.vivumlab.com/github/" }
+      { text: "GitHub", link: "https://kutt.evers.sh/github/" }
     ],
     // sidebar: {
     //   '/guide/': genSidebarConfig('Guide')

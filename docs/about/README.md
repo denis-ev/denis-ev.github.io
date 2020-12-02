@@ -7,18 +7,18 @@ info: 'IT enthusiast'
 interests: 'Interests: Creating websites, maintaining servers.'
 socials:
 - title: github
-  link: https://dev.vivumlab.com/github
+  link: https://kutt.evers.sh/github
 - title: linkedin
-  link: https://dev.vivumlab.com/linkedin
+  link: https://kutt.evers.sh/linkedin
 - title: instagram
-  link: https://dev.vivumlab.com/instagram
+  link: https://kutt.evers.sh/instagram
 - title: email
   link: 'mailto:denis[at]evers.sh'
 actions:
 - text: Projects
   link: /projects/
 - text: Blog
-  link: https://dev.vivumlab.com/github
+  link: https://kutt.evers.sh/github
 # - text: CV
 #   link: /article/
 footer: Made with ♥ by Denis. Powered by VuePress

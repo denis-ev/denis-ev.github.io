@@ -14,6 +14,8 @@ socials:
   link: https://kutt.evers.sh/instagram
 - title: email
   link: 'mailto:denis[at]evers.sh'
+- title: digitalocean
+  link: https://m.do.co/c/b55f5fb48aca
 actions:
 - text: Projects
   link: /projects/

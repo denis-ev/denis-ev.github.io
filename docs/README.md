@@ -72,8 +72,7 @@ hideBorder=true>
 
 ## Status services
 
-![DOGGO Backups](https://img.shields.io/endpoint?label=DOGGO%20Backups&style=for-the-badge&url=https%3A%2F%2Fhc.evers.sh%2Fbadge%2F433c549d-5a73-4480-bce5-db2cf79b38c0%2F0Vuh27EH%2Fdoggo.shields)
-
+![DOGGO Backups](https://img.shields.io/endpoint?label=DOGGO%20Backups&style=for-the-badge&url=https%3A%2F%2Fhc.evers.sh%2Fbadge%2F433c549d-5a73-4480-bce5-db2cf79b38c0%2FKZOCJQXv-2%2Fdoggo.shields)
 
 <!-- Custom style for this page -->
 

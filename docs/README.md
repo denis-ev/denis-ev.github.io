@@ -39,6 +39,8 @@ For more information check out [→ About Me](/about/)
 
 ## Education & Experiences
 
+- **Cosgrove Farming Co** Farm Hand <br/>
+April 2021 - current
 - **JM & JD Chandler** Farm Hand <br/>
 April 2020 - August 2020
 - **Ostfriesische Volksbank eG** IT Administrator <br/>
